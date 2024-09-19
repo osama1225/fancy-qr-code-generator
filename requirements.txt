@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==4.2.16
+image==1.5.33
+pillow==10.4.0
+pypng==0.20220715.0
+qrcode==7.4.2
+six==1.16.0
+sqlparse==0.5.1
+typing_extensions==4.12.2
